@@ -1,3 +1,7 @@
 export default function Home() {
-  return <h1 className="title">Hello World</h1>
+  return (
+    <section className="container mainContainer">
+      <h1>Insta Pet</h1>
+    </section>
+  )
 }
